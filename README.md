@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Kabil Doss
 
-<!--
-**Kabildoss/Kabildoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Data Scientist | Python Developer | AI Engineer**
 
-Here are some ideas to get you started:
+I'm passionate about building software systems, solving real-world problems with data, and exploring the intersection of **Machine Learning, Deep Learning, and AI Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on end-to-end AI projects — from data cleaning and feature engineering to model training, evaluation, and deployment.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabildoss&show_icons=true&theme=dark)
+
+---
